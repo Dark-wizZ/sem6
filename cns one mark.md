@@ -1,4 +1,3 @@
-Sure, I'll provide concise answers to all the questions listed.
 
 ### UNIT 1 - PART – A
 
