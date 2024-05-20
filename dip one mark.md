@@ -189,7 +189,7 @@
     - Idempotence, increasing, translation invariance.
 
 14. **Write the equation for thinning process.**
-    - Thinning: \( A \odot B = A - (A \ominus B) \)
+    - Thinning:𝐴⊙𝐵=𝐴−(𝐴⊖𝐵)
 
 15. **What is eigenvector and eigenvalue?**
     - Eigenvector: A non-zero vector that changes only in scale when a linear transformation is applied.
